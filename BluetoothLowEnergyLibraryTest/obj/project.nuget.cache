@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/7JuMcw58w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\mini project\\elvis\\BluetoothLowEnergyLibraryTest\\BluetoothLowEnergyLibraryTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.maui.controls\\8.0.3\\microsoft.maui.controls.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.3\\microsoft.maui.controls.build.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.maui.controls.compatibility\\8.0.3\\microsoft.maui.controls.compatibility.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.maui.controls.core\\8.0.3\\microsoft.maui.controls.core.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.maui.controls.xaml\\8.0.3\\microsoft.maui.controls.xaml.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.maui.core\\8.0.3\\microsoft.maui.core.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.maui.essentials\\8.0.3\\microsoft.maui.essentials.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.maui.graphics\\8.0.3\\microsoft.maui.graphics.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.3\\microsoft.maui.resizetizer.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\plugin.ble\\3.1.0\\plugin.ble.3.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "BluetoothLowEnergyLibrary does not provide an inclusive lower bound for dependency Microsoft.Maui.Controls. An approximate best match of Microsoft.Maui.Controls 8.0.3 was resolved.",
+      "libraryId": "Microsoft.Maui.Controls",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "BluetoothLowEnergyLibrary does not provide an inclusive lower bound for dependency Microsoft.Maui.Controls.Compatibility. An approximate best match of Microsoft.Maui.Controls.Compatibility 8.0.3 was resolved.",
+      "libraryId": "Microsoft.Maui.Controls.Compatibility",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

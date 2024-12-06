@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetoothLowEnergyLibrary", "BluetoothLowEnergyLibrary\BluetoothLowEnergyLibrary.csproj", "{215BE1DC-7695-4D13-B30D-8134A1D3D21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetoothLowEnergyLibraryTest", "BluetoothLowEnergyLibraryTest\BluetoothLowEnergyLibraryTest.csproj", "{870B0A4D-AA10-4380-9D36-378DC9E3C647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{215BE1DC-7695-4D13-B30D-8134A1D3D21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215BE1DC-7695-4D13-B30D-8134A1D3D21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215BE1DC-7695-4D13-B30D-8134A1D3D21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215BE1DC-7695-4D13-B30D-8134A1D3D21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870B0A4D-AA10-4380-9D36-378DC9E3C647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870B0A4D-AA10-4380-9D36-378DC9E3C647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870B0A4D-AA10-4380-9D36-378DC9E3C647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870B0A4D-AA10-4380-9D36-378DC9E3C647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

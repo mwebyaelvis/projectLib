@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Desktop\\mini project\\elvis\\BluetoothLowEnergyLibrary\\BluetoothLowEnergyLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Desktop\\mini project\\elvis\\BluetoothLowEnergyLibrary\\BluetoothLowEnergyLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\mini project\\elvis\\BluetoothLowEnergyLibrary\\BluetoothLowEnergyLibrary.csproj",
+        "projectName": "BluetoothLowEnergyLibrary",
+        "projectPath": "C:\\Users\\HP\\Desktop\\mini project\\elvis\\BluetoothLowEnergyLibrary\\BluetoothLowEnergyLibrary.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\mini project\\elvis\\BluetoothLowEnergyLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Maui.Controls": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Maui.Controls.Compatibility": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Plugin.BLE": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\HP\\.dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
